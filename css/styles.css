@@ -668,6 +668,7 @@ body {
 
 .portfolio-link {
   display: block;
+  text-decoration: none;
 }
 
 .portfolio-title {
